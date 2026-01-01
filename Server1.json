@@ -3,8 +3,8 @@
     "id": "6ae0dbbccb231644",
     "username": "TSEB02",
     "password": "123456",
-    "expiresAt": "2026-1-31",
-    "allowOffline": false
+    "expiresAt": "2026-1-2",
+    "allowOffline": true
   },
   {
     "id": "android_device_id_2",
