@@ -84,10 +84,10 @@
     "allowOffline": true
     },
     {
-    "id": "1527627119916++",
+    "id": "6ae0dbbccb231644",
     "username": "Demo2",
     "password": "pass2",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false
+    "expiresAt": "2026-1-31",
+    "allowOffline": true
   }
 ]
